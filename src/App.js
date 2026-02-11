@@ -1,7 +1,7 @@
 
 import Home from './Home';
 import Navbar from './Navbar';
-
+// video : 7 -- 
 function App() {
   return (
     <div className="App">
